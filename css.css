@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .trainer {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .trainer h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .pokemon-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .pokemon-list li {
+    width: 150px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .pokemon-list li img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .pokemon-list li .pokemon-name {
+    text-align: center;
+    margin-top: 5px;
+    font-weight: bold;
+  }
+  
+ 
+  .pokemon-type-fuego {
+    border: 2px solid #ff4136;
+  }
+  
+  .pokemon-type-electrico {
+    border: 2px solid #ffd700;
+  }
+  
+  .pokemon-type-planta {
+    border: 2px solid #2ecc40;
+  }

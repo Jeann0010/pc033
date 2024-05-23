@@ -1,0 +1,55 @@
+[
+    {
+      "entrenador": "Gary Owh",
+      "pokemons": [
+        {
+          "nombre": "Venasaur",
+          "tipo": "planta",
+          "foto": "img/1.png"
+        },
+        {
+          "nombre": "Eevee",
+          "tipo": "planta",
+          "foto": "img/2.png"
+        },
+        {
+          "nombre": "Blastoise",
+          "tipo": "agua",
+          "foto": "img/3.png"
+        },
+        {
+          "nombre": "Squirtle",
+          "tipo": "agua",
+          "foto": "img/4.png"
+        }
+       
+      ]
+    },
+    {
+      "entrenador": "Ash Quetchu",
+      "pokemons": [
+        {
+          "nombre": "Charizard",
+          "tipo": "fuego",
+          "foto": "img/5.png"
+        },
+        {
+          "nombre": "Pikachu",
+          "tipo": "eléctrico",
+          "foto": "img/6.png"
+        },
+        {
+          "nombre": "Bulbasaur",
+          "tipo": "planta",
+          "foto": "img/7.png"
+        },
+        {
+          "nombre": "Squirtle",
+          "tipo": "agua",
+          "foto": "img/4.png"
+        }
+        
+      ]
+    }
+  ]
+  
